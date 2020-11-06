@@ -1,0 +1,88 @@
+<?php
+    include("header.php")
+    ?>
+
+<main id="content">
+    <div class="pagewidth">
+
+
+        <nav id="navgym">
+            <ul>
+                <li><a href="#">tout</a></li>
+                <li><a href="#">step</a></li>
+                <li><a href="#">musculation</a></li>
+                <li><a href="#">course</a></li>
+            </ul>
+        </nav>
+
+    </div>
+
+
+    <h1 class="invisible"> invisible css</h1>
+
+
+    <section id="articlegym">
+        <article class="postgym">
+            <img src="images-gym/pic10.jpg" alt="step">
+            <h2>
+                Article 1
+            </h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, itaque!</p>
+        </article>
+
+        <article class="postgym">
+            <img src="images-gym/galerie2.jpg" alt="muscu">
+            <h2>
+                Article 2
+            </h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, itaque!</p>
+        </article>
+
+        <article class="postgym">
+            <img src="images-gym/pic12.jpg" alt="course">
+            <h2>
+                Article 3
+            </h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, itaque!</p>
+        </article>
+
+        <article class="postgym">
+            <img src="images-gym/pic13.jpg" alt="muscupec">
+            <h2>
+                Article 4
+            </h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, itaque!</p>
+        </article>
+
+        <article class="postgym">
+            <img src="images-gym/pic14.jpg" alt="muscucoach">
+            <h2>
+                Article 5
+            
+            </h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, itaque!</p>
+        </article>
+
+        <article class="postgym">
+            <img src="images-gym/pic15.jpg" alt="biceps">
+            <h2>
+                Article 6
+            </h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, itaque!</p>
+        </article>
+
+
+
+
+
+
+    </section>
+    </div>
+
+
+</main>
+
+
+<?php
+    include("footer.php");
+?>
